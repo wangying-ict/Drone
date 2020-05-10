@@ -5,7 +5,7 @@ This repo mainly contain the source code of the proposed solution of team ICT-CA
 The performance of our model is as follow:
 
 | Tested Accuracy(mean IOU) | Speed(FPS)|
-|:-----:|:-----:|:-----:|
+|:-----:|:-----:|
 |0.6975|24.55|
 
 
